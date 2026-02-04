@@ -1,0 +1,3 @@
+mode,Q_TOTAL,HORIZON_SEC,filled_qty,vwap_exec,vwap_mid,slippage_vs_mid,cross_events,passive_fill_events,passive_no_fill_events,final_cross_used
+baseline,5.0,1800,5.0,9134.50570814149,9134.62860061922,-0.12289247772969247,60,793,948,1
+factor,5.0,1800,5.000000000000006,9134.520691151429,9134.567656956335,-0.046965804905994446,399,502,900,1
